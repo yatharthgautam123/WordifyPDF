@@ -1,0 +1,4 @@
+Flask
+docx
+fpdf
+PyPDF2
