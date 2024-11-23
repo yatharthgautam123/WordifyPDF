@@ -18,22 +18,6 @@
 
 ---
 
-## 🎨 **Screenshots**
-
-### 📤 Upload Page:
-![Upload Page](https://via.placeholder.com/800x400.png?text=Upload+Page)
-
-### 📜 Metadata and Download:
-![Result Page](https://via.placeholder.com/800x400.png?text=Conversion+Successful)
-
----
-
-## 📂 **Flowchart**
-
-Below is the high-level flowchart illustrating the application's workflow:
-
-![Application Flowchart](https://via.placeholder.com/800x400.png?text=Flowchart)
-
 *Steps:*  
 1. User uploads a `.docx` file via the web interface.  
 2. Backend processes the file and extracts metadata.  
@@ -52,11 +36,3 @@ Below is the high-level flowchart illustrating the application's workflow:
 
 ---
 
-## 🧑‍💻 **Getting Started**
-
-Follow these steps to run the application locally or deploy it on your favorite platform.
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/your-username/docx-to-pdf.git
-cd docx-to-pdf
